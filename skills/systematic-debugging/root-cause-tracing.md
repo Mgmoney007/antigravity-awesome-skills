@@ -1,3 +1,8 @@
+---
+name: root-cause-systematic-debugging
+description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+---
+
 # Root Cause Tracing
 
 ## Overview
